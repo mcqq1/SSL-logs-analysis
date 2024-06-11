@@ -1,0 +1,4145 @@
+{
+    "facebook.com": [
+        {
+            "fuzzer": "*original",
+            "domain": "facebook.com",
+            "dns_a": [
+                "57.144.112.1"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebookz.com",
+            "dns_a": [
+                "103.224.182.238"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebookc.com",
+            "dns_a": [
+                "103.224.182.245"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebookf.com",
+            "dns_a": [
+                "103.224.182.245"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebooku.com",
+            "dns_a": [
+                "103.224.182.245"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebook0.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebookg.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebookm.com",
+            "dns_a": [
+                "103.224.182.250"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebook4.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebookh.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebookr.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebookv.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebooky.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebook5.com",
+            "dns_a": [
+                "13.248.169.48"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebook2.com",
+            "dns_a": [
+                "158.247.201.227"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebookj.com",
+            "dns_a": [
+                "162.215.226.3"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebookb.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebookd.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebooko.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebookx.com",
+            "dns_a": [
+                "35.215.117.66"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebookn.com",
+            "dns_a": [
+                "38.38.91.164"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebook6.com",
+            "dns_a": [
+                "44.230.85.241"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebookp.com",
+            "dns_a": [
+                "44.230.85.241"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebookq.com",
+            "dns_a": [
+                "44.230.85.241"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebooka.com",
+            "dns_a": [
+                "47.254.33.193"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebooke.com",
+            "dns_a": [
+                "54.67.42.145"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebookl.com",
+            "dns_a": [
+                "54.67.42.145"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebooks.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebooki.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebookw.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebook8.com",
+            "dns_a": [
+                "74.220.199.6"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebook1.com",
+            "dns_a": [
+                "93.115.28.104"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "facebookt.com",
+            "dns_a": [
+                "95.211.189.152"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "facebnok.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "facebooo.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "fccebook.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "facebonk.com",
+            "dns_a": [
+                "13.248.169.48"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "vacebook.com",
+            "dns_a": [
+                "13.248.169.48"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "fecebook.com",
+            "dns_a": [
+                "146.148.34.125"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "faaebook.com",
+            "dns_a": [
+                "149.28.121.93"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "fakebook.com",
+            "dns_a": [
+                "162.215.248.242"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "fabebook.com",
+            "dns_a": [
+                "185.53.177.53"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "facabook.com",
+            "dns_a": [
+                "185.53.177.54"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "facefook.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "facejook.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "ficebook.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "facebogk.com",
+            "dns_a": [
+                "3.18.7.81"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "fagebook.com",
+            "dns_a": [
+                "3.33.130.190"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "bacebook.com",
+            "dns_a": [
+                "47.254.33.193"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "dacebook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "facebokk.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "facebooi.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "facebooj.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "facecook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "fasebook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "fqcebook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "facdbook.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "facebooc.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "gacebook.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "facerook.com",
+            "dns_a": [
+                "75.126.101.246"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "face1book.com",
+            "dns_a": [
+                "13.248.169.48"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "faceibook.com",
+            "dns_a": [
+                "13.248.169.48"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--fcebook-hwa.com",
+            "dns_a": [
+                "13.248.169.48"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--facebok-9lb.com",
+            "dns_a": [
+                "13.248.213.45"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--fcbook-ita55b.com",
+            "dns_a": [
+                "13.248.213.45"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--acebook-w1b.com",
+            "dns_a": [
+                "149.100.155.112"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--facebok-y0a.com",
+            "dns_a": [
+                "15.197.192.55"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--faebook-vxa.com",
+            "dns_a": [
+                "15.197.192.55"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--faebok-cz5btd.com",
+            "dns_a": [
+                "178.128.49.78"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--facbook-dya.com",
+            "dns_a": [
+                "185.253.212.22"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--facebok-x0a.com",
+            "dns_a": [
+                "185.53.177.51"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--facebok-p0a.com",
+            "dns_a": [
+                "185.53.178.54"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--fcebook-8va.com",
+            "dns_a": [
+                "194.245.148.189"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--faceboo-bx3c.com",
+            "dns_a": [
+                "195.154.15.185"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--faebook-64a.com",
+            "dns_a": [
+                "195.187.6.33"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--facebok-q0a.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--facbook-s9a.com",
+            "dns_a": [
+                "213.186.33.5"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--fcebook-exa.com",
+            "dns_a": [
+                "213.186.33.5"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--fcebook-pwa.com",
+            "dns_a": [
+                "213.186.33.5"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--facbk-dsa6ga.com",
+            "dns_a": [
+                "3.161.82.120"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "faceb0ok.com",
+            "dns_a": [
+                "3.33.130.190"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--facbok-6wa80a.com",
+            "dns_a": [
+                "3.33.130.190"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--facebk-0xaa.com",
+            "dns_a": [
+                "3.33.130.190"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--facebk-fgba.com",
+            "dns_a": [
+                "3.33.130.190"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--facebok-h0a.com",
+            "dns_a": [
+                "3.33.130.190"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--faceook-4rd.com",
+            "dns_a": [
+                "3.33.130.190"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--faebook-k6a.com",
+            "dns_a": [
+                "3.33.130.190"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--fcebook-s3a.com",
+            "dns_a": [
+                "3.33.130.190"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--facebok-f1a.com",
+            "dns_a": [
+                "3.33.152.147"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--facebok-h5b.com",
+            "dns_a": [
+                "51.38.129.106"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "facedooc.com",
+            "dns_a": [
+                "52.86.6.113"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--facbook-v8a.com",
+            "dns_a": [
+                "54.38.220.85"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "facebool.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "facelbook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "facebooe.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "faccbook.com",
+            "dns_a": [
+                "64.190.63.222"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "facedook.com",
+            "dns_a": [
+                "64.190.63.222"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--fcebook-5wa.com",
+            "dns_a": [
+                "64.190.63.222"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "faceb00k.com",
+            "dns_a": [
+                "69.162.80.56"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--fcbook-pta36b.com",
+            "dns_a": [
+                "76.223.67.189"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--faebook-35a.com",
+            "dns_a": [
+                "84.32.84.32"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--fcebk-mra6ja.com",
+            "dns_a": [
+                "84.32.84.32"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--fceboo-pta70e.com",
+            "dns_a": [
+                "84.32.84.32"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--facbook-lya.com",
+            "dns_a": [
+                "91.195.240.94"
+            ]
+        },
+        {
+            "fuzzer": "hyphenation",
+            "domain": "faceb-ook.com",
+            "dns_a": [
+                "13.248.169.48"
+            ]
+        },
+        {
+            "fuzzer": "hyphenation",
+            "domain": "face-book.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "hyphenation",
+            "domain": "facebo-ok.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "hyphenation",
+            "domain": "faceboo-k.com",
+            "dns_a": [
+                "92.204.223.27"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "fac3ebook.com",
+            "dns_a": [
+                "103.210.21.217"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "fdacebook.com",
+            "dns_a": [
+                "103.224.182.238"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "vfacebook.com",
+            "dns_a": [
+                "103.224.182.239"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "fac4ebook.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "faceb0ook.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facebolok.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "faceboo0k.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "faceboopk.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facebopok.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facrebook.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "fafcebook.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "faycebook.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "fsacebook.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "fvacebook.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "fwacebook.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "fyacebook.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "rfacebook.com",
+            "dns_a": [
+                "103.224.182.250"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "f1acebook.com",
+            "dns_a": [
+                "104.21.57.80"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "faceboiok.com",
+            "dns_a": [
+                "146.148.34.125"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "faceboolk.com",
+            "dns_a": [
+                "146.148.34.125"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facebkook.com",
+            "dns_a": [
+                "152.32.175.174"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "faxcebook.com",
+            "dns_a": [
+                "160.153.129.234"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facebo9ok.com",
+            "dns_a": [
+                "162.210.196.171"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facebiook.com",
+            "dns_a": [
+                "162.215.226.3"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "faceblook.com",
+            "dns_a": [
+                "162.215.226.3"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "fadcebook.com",
+            "dns_a": [
+                "162.215.226.3"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facebnook.com",
+            "dns_a": [
+                "162.215.226.6"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "cfacebook.com",
+            "dns_a": [
+                "185.53.177.53"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facesbook.com",
+            "dns_a": [
+                "185.53.177.53"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "gfacebook.com",
+            "dns_a": [
+                "185.53.178.50"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "dfacebook.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "face4book.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facehbook.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facsebook.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "fawcebook.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "fazcebook.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "fqacebook.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "ftacebook.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "tfacebook.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facebo0ok.com",
+            "dns_a": [
+                "3.33.152.147"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facenbook.com",
+            "dns_a": [
+                "31.3.66.35"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "faceb9ook.com",
+            "dns_a": [
+                "34.120.137.41"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "faqcebook.com",
+            "dns_a": [
+                "34.232.203.70"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "faceboo9k.com",
+            "dns_a": [
+                "52.20.84.62"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facdebook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "face3book.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facebhook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facebokok.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facebooik.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facebpook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facebvook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facegbook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facerbook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facfebook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facvebook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facwebook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facxebook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "favcebook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "fcacebook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "fracebook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facebgook.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facedbook.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "facevbook.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "fgacebook.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "omission",
+            "domain": "facbook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "omission",
+            "domain": "faebook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "omission",
+            "domain": "acebook.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "omission",
+            "domain": "facebok.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "omission",
+            "domain": "faceboo.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "omission",
+            "domain": "faceook.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "omission",
+            "domain": "fcebook.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "plural",
+            "domain": "facebosok.com",
+            "dns_a": [
+                "44.230.85.241"
+            ]
+        },
+        {
+            "fuzzer": "repetition",
+            "domain": "faacebook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "repetition",
+            "domain": "faccebook.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "repetition",
+            "domain": "facebbook.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "repetition",
+            "domain": "faceboook.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "repetition",
+            "domain": "faceebook.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "repetition",
+            "domain": "ffacebook.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "fzcebook.com",
+            "dns_a": [
+                "103.224.182.217"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "facehook.com",
+            "dns_a": [
+                "103.224.182.250"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "faczbook.com",
+            "dns_a": [
+                "146.148.34.125"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "facegook.com",
+            "dns_a": [
+                "185.53.178.50"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "cacebook.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "fac3book.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "fac4book.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "facwbook.com",
+            "dns_a": [
+                "3.33.152.147"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "facebopk.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "favebook.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "faceboik.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "facebolk.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "faceboom.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "facrbook.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "fadebook.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "fscebook.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "fafebook.com",
+            "dns_a": [
+                "95.130.17.35"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "fwcebook.com",
+            "dns_a": [
+                "97.74.98.67"
+            ]
+        },
+        {
+            "fuzzer": "subdomain",
+            "domain": "fa.cebook.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "subdomain",
+            "domain": "faceb.ook.com",
+            "dns_a": [
+                "34.206.39.153"
+            ]
+        },
+        {
+            "fuzzer": "transposition",
+            "domain": "faceboko.com",
+            "dns_a": [
+                "185.53.177.53"
+            ]
+        },
+        {
+            "fuzzer": "transposition",
+            "domain": "faceobok.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "transposition",
+            "domain": "fcaebook.com",
+            "dns_a": [
+                "57.144.112.141"
+            ]
+        },
+        {
+            "fuzzer": "various",
+            "domain": "facebookcom.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "vowel-swap",
+            "domain": "faceboek.com",
+            "dns_a": [
+                "103.224.182.250"
+            ]
+        },
+        {
+            "fuzzer": "vowel-swap",
+            "domain": "facobook.com",
+            "dns_a": [
+                "185.53.178.74"
+            ]
+        },
+        {
+            "fuzzer": "vowel-swap",
+            "domain": "facibook.com",
+            "dns_a": [
+                "3.64.163.50"
+            ]
+        },
+        {
+            "fuzzer": "vowel-swap",
+            "domain": "faceboak.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        },
+        {
+            "fuzzer": "vowel-swap",
+            "domain": "facebuok.com",
+            "dns_a": [
+                "57.144.110.141"
+            ]
+        }
+    ],
+    "twitter.com": [
+        {
+            "fuzzer": "*original",
+            "domain": "twitter.com",
+            "dns_a": [
+                "104.244.42.129"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitterr.com",
+            "dns_a": [
+                "103.224.182.239"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitterc.com",
+            "dns_a": [
+                "103.224.212.210"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twittern.com",
+            "dns_a": [
+                "103.224.212.210"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitter4.com",
+            "dns_a": [
+                "103.224.212.213"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitterl.com",
+            "dns_a": [
+                "103.224.212.233"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitterw.com",
+            "dns_a": [
+                "104.21.1.243"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitter0.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitter5.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitter7.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitter8.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitter9.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitterg.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitterh.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitterj.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitterp.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitterq.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitterd.com",
+            "dns_a": [
+                "13.248.213.45"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitter3.com",
+            "dns_a": [
+                "15.197.204.56"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitteri.com",
+            "dns_a": [
+                "170.39.226.155"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitter6.com",
+            "dns_a": [
+                "172.104.90.201"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitter1.com",
+            "dns_a": [
+                "185.107.56.58"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twittery.com",
+            "dns_a": [
+                "185.149.120.173"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitter2.com",
+            "dns_a": [
+                "185.190.19.9"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitterz.com",
+            "dns_a": [
+                "185.53.177.53"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twittero.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitters.com",
+            "dns_a": [
+                "3.214.190.10"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twittera.com",
+            "dns_a": [
+                "3.33.130.190"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twittert.com",
+            "dns_a": [
+                "45.33.23.183"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitterf.com",
+            "dns_a": [
+                "54.224.107.45"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitterm.com",
+            "dns_a": [
+                "74.208.236.13"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitterx.com",
+            "dns_a": [
+                "78.46.68.15"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "twitterk.com",
+            "dns_a": [
+                "91.121.63.151"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "twktter.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "4witter.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "pwitter.com",
+            "dns_a": [
+                "13.248.169.48"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "twituer.com",
+            "dns_a": [
+                "154.201.164.54"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "twatter.com",
+            "dns_a": [
+                "18.227.0.14"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "vwitter.com",
+            "dns_a": [
+                "188.114.97.11"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "twytter.com",
+            "dns_a": [
+                "192.185.137.152"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "twittur.com",
+            "dns_a": [
+                "198.187.31.153"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "uwitter.com",
+            "dns_a": [
+                "45.55.156.67"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "tvitter.com",
+            "dns_a": [
+                "5.22.145.121"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "dwitter.com",
+            "dns_a": [
+                "64.190.63.222"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "twitder.com",
+            "dns_a": [
+                "64.190.63.222"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "tsitter.com",
+            "dns_a": [
+                "64.91.248.18"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "tuitter.com",
+            "dns_a": [
+                "66.81.203.201"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "twittdr.com",
+            "dns_a": [
+                "82.192.82.225"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "tgitter.com",
+            "dns_a": [
+                "92.222.78.13"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "twittar.com",
+            "dns_a": [
+                "95.211.189.151"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "twittes.com",
+            "dns_a": [
+                "96.45.82.55"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "twittcr.com",
+            "dns_a": [
+                "103.224.212.214"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--twittr-m4a.com",
+            "dns_a": [
+                "107.180.103.27"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "tw1tter.com",
+            "dns_a": [
+                "192.64.119.254"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--twtter-j8a.com",
+            "dns_a": [
+                "213.186.33.5"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--twtter-cwa.com",
+            "dns_a": [
+                "213.186.33.87"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--twitte-1x7b.com",
+            "dns_a": [
+                "216.239.34.21"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--twittr-fva.com",
+            "dns_a": [
+                "3.33.130.190"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--twtter-cl8b.com",
+            "dns_a": [
+                "3.33.130.190"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--twttr-7ra6a.com",
+            "dns_a": [
+                "3.33.130.190"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--twttr-ksaz.com",
+            "dns_a": [
+                "3.33.130.190"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--twtter-q9a.com",
+            "dns_a": [
+                "34.232.203.70"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "twltter.com",
+            "dns_a": [
+                "69.162.80.60"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--twtter-4va.com",
+            "dns_a": [
+                "78.153.209.228"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--twtter-jwa.com",
+            "dns_a": [
+                "78.153.209.228"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--twtter-xva.com",
+            "dns_a": [
+                "78.153.209.228"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--twittr-th8b.com",
+            "dns_a": [
+                "93.188.163.242"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "gtwitter.com",
+            "dns_a": [
+                "103.224.182.207"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twuitter.com",
+            "dns_a": [
+                "103.224.182.207"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "tewitter.com",
+            "dns_a": [
+                "103.224.182.218"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twoitter.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twittwer.com",
+            "dns_a": [
+                "103.224.182.251"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "tfwitter.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "tswitter.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twijtter.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twsitter.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twjitter.com",
+            "dns_a": [
+                "13.248.169.48"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twittewr.com",
+            "dns_a": [
+                "146.148.34.125"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twitt3er.com",
+            "dns_a": [
+                "154.197.145.109"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twitt6er.com",
+            "dns_a": [
+                "158.140.199.16"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "rtwitter.com",
+            "dns_a": [
+                "162.210.199.87"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "tywitter.com",
+            "dns_a": [
+                "185.107.56.58"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "trwitter.com",
+            "dns_a": [
+                "185.107.56.60"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twi8tter.com",
+            "dns_a": [
+                "185.53.177.51"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "ftwitter.com",
+            "dns_a": [
+                "185.53.177.52"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twiftter.com",
+            "dns_a": [
+                "185.53.177.53"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twittyer.com",
+            "dns_a": [
+                "185.53.177.54"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twiotter.com",
+            "dns_a": [
+                "185.53.178.50"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twittger.com",
+            "dns_a": [
+                "185.53.178.52"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twi9tter.com",
+            "dns_a": [
+                "185.53.178.53"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twaitter.com",
+            "dns_a": [
+                "188.114.97.11"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "t2witter.com",
+            "dns_a": [
+                "198.251.81.30"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "t5witter.com",
+            "dns_a": [
+                "198.251.81.30"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twitrter.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twittedr.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twittfer.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twittser.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twitgter.com",
+            "dns_a": [
+                "213.186.33.5"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twqitter.com",
+            "dns_a": [
+                "213.186.33.5"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twitte4r.com",
+            "dns_a": [
+                "3.33.130.190"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "ztwitter.com",
+            "dns_a": [
+                "3.33.139.32"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "6twitter.com",
+            "dns_a": [
+                "34.232.203.70"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "tawitter.com",
+            "dns_a": [
+                "34.232.203.70"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twitfter.com",
+            "dns_a": [
+                "44.230.85.241"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twittder.com",
+            "dns_a": [
+                "44.230.85.241"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twirtter.com",
+            "dns_a": [
+                "47.254.33.193"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twiktter.com",
+            "dns_a": [
+                "50.28.56.190"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "tzwitter.com",
+            "dns_a": [
+                "64.190.63.222"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twittrer.com",
+            "dns_a": [
+                "93.115.28.104"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twiytter.com",
+            "dns_a": [
+                "93.115.28.104"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "tqwitter.com",
+            "dns_a": [
+                "95.211.117.215"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "tweitter.com",
+            "dns_a": [
+                "95.211.117.215"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twityter.com",
+            "dns_a": [
+                "95.211.219.65"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "twiutter.com",
+            "dns_a": [
+                "95.211.219.65"
+            ]
+        },
+        {
+            "fuzzer": "omission",
+            "domain": "titter.com",
+            "dns_a": [
+                "104.21.44.196"
+            ]
+        },
+        {
+            "fuzzer": "omission",
+            "domain": "twitte.com",
+            "dns_a": [
+                "173.236.211.166"
+            ]
+        },
+        {
+            "fuzzer": "omission",
+            "domain": "witter.com",
+            "dns_a": [
+                "188.114.96.11"
+            ]
+        },
+        {
+            "fuzzer": "omission",
+            "domain": "twiter.com",
+            "dns_a": [
+                "199.59.148.10"
+            ]
+        },
+        {
+            "fuzzer": "plural",
+            "domain": "twitster.com",
+            "dns_a": [
+                "13.56.33.8"
+            ]
+        },
+        {
+            "fuzzer": "plural",
+            "domain": "twistter.com",
+            "dns_a": [
+                "64.190.63.222"
+            ]
+        },
+        {
+            "fuzzer": "repetition",
+            "domain": "twitteer.com",
+            "dns_a": [
+                "103.224.182.241"
+            ]
+        },
+        {
+            "fuzzer": "repetition",
+            "domain": "twittter.com",
+            "dns_a": [
+                "199.59.148.10"
+            ]
+        },
+        {
+            "fuzzer": "repetition",
+            "domain": "twwitter.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "repetition",
+            "domain": "ttwitter.com",
+            "dns_a": [
+                "95.211.219.67"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twutter.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twittef.com",
+            "dns_a": [
+                "103.224.182.251"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twizter.com",
+            "dns_a": [
+                "103.224.212.211"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "txitter.com",
+            "dns_a": [
+                "103.224.212.212"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twitrer.com",
+            "dns_a": [
+                "104.21.11.187"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "5witter.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twi5ter.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twittsr.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "tw9tter.com",
+            "dns_a": [
+                "154.55.64.143"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "rwitter.com",
+            "dns_a": [
+                "185.53.178.50"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "6witter.com",
+            "dns_a": [
+                "185.53.178.51"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twitt4r.com",
+            "dns_a": [
+                "188.114.96.11"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "tw8tter.com",
+            "dns_a": [
+                "198.251.81.30"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twigter.com",
+            "dns_a": [
+                "198.251.81.30"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twitger.com",
+            "dns_a": [
+                "198.251.81.30"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "t3itter.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "tqitter.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twittee.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twitzer.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "t2itter.com",
+            "dns_a": [
+                "208.91.197.132"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twitte5.com",
+            "dns_a": [
+                "208.91.197.27"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twityer.com",
+            "dns_a": [
+                "3.33.130.190"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twirter.com",
+            "dns_a": [
+                "3.33.152.147"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twifter.com",
+            "dns_a": [
+                "3.64.163.50"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twi6ter.com",
+            "dns_a": [
+                "44.230.85.241"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twittwr.com",
+            "dns_a": [
+                "47.254.33.193"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twotter.com",
+            "dns_a": [
+                "5.61.57.250"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twittzr.com",
+            "dns_a": [
+                "54.209.32.212"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "gwitter.com",
+            "dns_a": [
+                "64.190.63.222"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "zwitter.com",
+            "dns_a": [
+                "64.190.63.222"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twitted.com",
+            "dns_a": [
+                "66.81.203.132"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "fwitter.com",
+            "dns_a": [
+                "67.225.218.6"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twitt3r.com",
+            "dns_a": [
+                "69.16.231.82"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twittrr.com",
+            "dns_a": [
+                "72.52.179.174"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "ywitter.com",
+            "dns_a": [
+                "72.52.179.174"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "teitter.com",
+            "dns_a": [
+                "89.106.200.1"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twitfer.com",
+            "dns_a": [
+                "93.115.28.104"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twitte4.com",
+            "dns_a": [
+                "93.115.28.104"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twiyter.com",
+            "dns_a": [
+                "93.115.28.104"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twjtter.com",
+            "dns_a": [
+                "95.211.219.66"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "twittet.com",
+            "dns_a": [
+                "95.211.219.67"
+            ]
+        },
+        {
+            "fuzzer": "subdomain",
+            "domain": "tw.itter.com",
+            "dns_a": [
+                "18.192.184.167"
+            ]
+        },
+        {
+            "fuzzer": "subdomain",
+            "domain": "twi.tter.com",
+            "dns_a": [
+                "64.91.240.248"
+            ]
+        },
+        {
+            "fuzzer": "transposition",
+            "domain": "tiwtter.com",
+            "dns_a": [
+                "185.53.177.51"
+            ]
+        },
+        {
+            "fuzzer": "transposition",
+            "domain": "twtiter.com",
+            "dns_a": [
+                "95.211.189.138"
+            ]
+        },
+        {
+            "fuzzer": "transposition",
+            "domain": "twitetr.com",
+            "dns_a": [
+                "95.211.189.151"
+            ]
+        },
+        {
+            "fuzzer": "transposition",
+            "domain": "twittre.com",
+            "dns_a": [
+                "95.211.219.65"
+            ]
+        },
+        {
+            "fuzzer": "transposition",
+            "domain": "wtitter.com",
+            "dns_a": [
+                "95.211.219.66"
+            ]
+        },
+        {
+            "fuzzer": "various",
+            "domain": "twittercom.com",
+            "dns_a": [
+                "72.52.179.174"
+            ]
+        },
+        {
+            "fuzzer": "vowel-swap",
+            "domain": "twittir.com",
+            "dns_a": [
+                "103.224.182.241"
+            ]
+        },
+        {
+            "fuzzer": "vowel-swap",
+            "domain": "twetter.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "vowel-swap",
+            "domain": "twittor.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        }
+    ],
+    "youtube.com": [
+        {
+            "fuzzer": "*original",
+            "domain": "youtube.com",
+            "dns_a": [
+                "216.58.215.110"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtube2.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtubea.com",
+            "dns_a": [
+                "103.224.182.251"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtubey.com",
+            "dns_a": [
+                "103.224.182.251"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtubel.com",
+            "dns_a": [
+                "104.219.168.162"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtube4.com",
+            "dns_a": [
+                "15.197.240.20"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtube6.com",
+            "dns_a": [
+                "172.93.194.59"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtube5.com",
+            "dns_a": [
+                "182.255.60.95"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtuber.com",
+            "dns_a": [
+                "185.53.178.50"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtubeq.com",
+            "dns_a": [
+                "188.114.96.11"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtube9.com",
+            "dns_a": [
+                "188.114.97.11"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtubef.com",
+            "dns_a": [
+                "188.40.168.204"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtube3.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtubeb.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtubei.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtubej.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtube0.com",
+            "dns_a": [
+                "208.91.196.152"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtuben.com",
+            "dns_a": [
+                "208.91.196.152"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtubeo.com",
+            "dns_a": [
+                "208.91.196.152"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtubet.com",
+            "dns_a": [
+                "208.91.196.152"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtubeu.com",
+            "dns_a": [
+                "208.91.196.152"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtubem.com",
+            "dns_a": [
+                "54.235.212.68"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtubep.com",
+            "dns_a": [
+                "54.235.212.68"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtube8.com",
+            "dns_a": [
+                "69.16.231.82"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtubee.com",
+            "dns_a": [
+                "72.52.178.23"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtube7.com",
+            "dns_a": [
+                "74.208.236.98"
+            ]
+        },
+        {
+            "fuzzer": "addition",
+            "domain": "youtubeh.com",
+            "dns_a": [
+                "95.211.219.65"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "ykutube.com",
+            "dns_a": [
+                "103.224.182.207"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "yottube.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "youtwbe.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "youtubm.com",
+            "dns_a": [
+                "13.248.169.48"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "youtuce.com",
+            "dns_a": [
+                "134.119.176.30"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "youdube.com",
+            "dns_a": [
+                "15.197.192.55"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "you4ube.com",
+            "dns_a": [
+                "170.106.38.15"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "9outube.com",
+            "dns_a": [
+                "172.67.161.172"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "yoqtube.com",
+            "dns_a": [
+                "18.116.125.113"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "ygutube.com",
+            "dns_a": [
+                "185.107.56.198"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "yoetube.com",
+            "dns_a": [
+                "185.107.56.202"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "youpube.com",
+            "dns_a": [
+                "185.53.177.70"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "yo5tube.com",
+            "dns_a": [
+                "192.64.119.63"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "ioutube.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "xoutube.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "youuube.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "youture.com",
+            "dns_a": [
+                "208.91.196.152"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "youttbe.com",
+            "dns_a": [
+                "3.18.7.81"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "youvube.com",
+            "dns_a": [
+                "3.33.152.147"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "youtuje.com",
+            "dns_a": [
+                "3.64.163.50"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "yowtube.com",
+            "dns_a": [
+                "34.232.203.70"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "youtufe.com",
+            "dns_a": [
+                "37.48.65.153"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "qoutube.com",
+            "dns_a": [
+                "54.161.222.85"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "youtubu.com",
+            "dns_a": [
+                "54.214.116.219"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "youtubd.com",
+            "dns_a": [
+                "69.16.230.226"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "youtubg.com",
+            "dns_a": [
+                "72.52.178.23"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "youtuba.com",
+            "dns_a": [
+                "95.211.117.215"
+            ]
+        },
+        {
+            "fuzzer": "bitsquatting",
+            "domain": "youtebe.com",
+            "dns_a": [
+                "95.211.219.67"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--youtue-txc.com",
+            "dns_a": [
+                "103.224.212.212"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--yutube-wxa.com",
+            "dns_a": [
+                "103.224.212.217"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--youtue-tg7b.com",
+            "dns_a": [
+                "146.229.244.28"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--outube-o9c.com",
+            "dns_a": [
+                "172.67.130.230"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--yutube-iqc.com",
+            "dns_a": [
+                "185.255.122.94"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "youtullbe.com",
+            "dns_a": [
+                "185.5.54.80"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--yutube-ixa.com",
+            "dns_a": [
+                "185.53.177.31"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "y0utube.com",
+            "dns_a": [
+                "185.53.177.51"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "youtubc.com",
+            "dns_a": [
+                "185.53.177.53"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "youtude.com",
+            "dns_a": [
+                "185.53.177.54"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--outube-oza.com",
+            "dns_a": [
+                "185.53.178.50"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--youtub-uh8b.com",
+            "dns_a": [
+                "188.114.96.11"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--youtub-n4a.com",
+            "dns_a": [
+                "188.166.129.185"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "youtulbe.com",
+            "dns_a": [
+                "208.91.196.152"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--yutube-bya.com",
+            "dns_a": [
+                "213.186.33.5"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--yutube-i15b.com",
+            "dns_a": [
+                "54.67.42.145"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--youtbe-6ya.com",
+            "dns_a": [
+                "64.225.91.73"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--yutube-3wa.com",
+            "dns_a": [
+                "67.227.226.240"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--youtub-gva.com",
+            "dns_a": [
+                "75.2.115.196"
+            ]
+        },
+        {
+            "fuzzer": "homoglyph",
+            "domain": "xn--youtue-fg7b.com",
+            "dns_a": [
+                "81.175.197.237"
+            ]
+        },
+        {
+            "fuzzer": "hyphenation",
+            "domain": "y-outube.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "hyphenation",
+            "domain": "yout-ube.com",
+            "dns_a": [
+                "158.106.136.107"
+            ]
+        },
+        {
+            "fuzzer": "hyphenation",
+            "domain": "youtub-e.com",
+            "dns_a": [
+                "45.33.23.183"
+            ]
+        },
+        {
+            "fuzzer": "hyphenation",
+            "domain": "yo-utube.com",
+            "dns_a": [
+                "46.8.8.100"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yout7ube.com",
+            "dns_a": [
+                "103.210.21.217"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youtujbe.com",
+            "dns_a": [
+                "103.224.182.207"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youftube.com",
+            "dns_a": [
+                "103.224.182.240"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "6youtube.com",
+            "dns_a": [
+                "103.224.182.241"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yolutube.com",
+            "dns_a": [
+                "103.224.182.241"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "y9outube.com",
+            "dns_a": [
+                "103.224.182.245"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youtiube.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "ytoutube.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yxoutube.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yohutube.com",
+            "dns_a": [
+                "103.224.182.251"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yozutube.com",
+            "dns_a": [
+                "104.21.18.63"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "hyoutube.com",
+            "dns_a": [
+                "104.21.83.66"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yourtube.com",
+            "dns_a": [
+                "107.180.1.38"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yo7utube.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youtunbe.com",
+            "dns_a": [
+                "134.119.176.22"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "y7outube.com",
+            "dns_a": [
+                "134.119.176.23"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yaoutube.com",
+            "dns_a": [
+                "134.119.176.23"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yuoutube.com",
+            "dns_a": [
+                "134.119.176.28"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youtubne.com",
+            "dns_a": [
+                "184.106.55.59"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "xyoutube.com",
+            "dns_a": [
+                "185.107.56.203"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yojutube.com",
+            "dns_a": [
+                "185.107.56.205"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youtfube.com",
+            "dns_a": [
+                "185.107.56.57"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "y6outube.com",
+            "dns_a": [
+                "185.107.56.59"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "you5tube.com",
+            "dns_a": [
+                "185.107.56.59"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youtzube.com",
+            "dns_a": [
+                "185.53.177.52"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youthube.com",
+            "dns_a": [
+                "185.53.177.54"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yioutube.com",
+            "dns_a": [
+                "185.53.178.50"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youtyube.com",
+            "dns_a": [
+                "185.53.178.51"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yoyutube.com",
+            "dns_a": [
+                "185.53.178.52"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youtjube.com",
+            "dns_a": [
+                "185.53.178.53"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "y0outube.com",
+            "dns_a": [
+                "188.114.97.11"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "gyoutube.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "uyoutube.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yloutube.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yo9utube.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yougtube.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yout5ube.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yout6ube.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youtrube.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youtu7be.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youtugbe.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youtuhbe.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yout8ube.com",
+            "dns_a": [
+                "208.91.196.152"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youtu8be.com",
+            "dns_a": [
+                "208.91.196.152"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youtuzbe.com",
+            "dns_a": [
+                "208.91.196.152"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "ygoutube.com",
+            "dns_a": [
+                "44.230.85.241"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yokutube.com",
+            "dns_a": [
+                "44.230.85.241"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "ypoutube.com",
+            "dns_a": [
+                "45.33.23.183"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youztube.com",
+            "dns_a": [
+                "5.22.145.121"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youtuvbe.com",
+            "dns_a": [
+                "50.28.56.190"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yo0utube.com",
+            "dns_a": [
+                "54.235.212.68"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "you8tube.com",
+            "dns_a": [
+                "54.235.212.68"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "syoutube.com",
+            "dns_a": [
+                "54.67.42.145"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "ayoutube.com",
+            "dns_a": [
+                "64.190.63.222"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "ysoutube.com",
+            "dns_a": [
+                "64.190.63.222"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youjtube.com",
+            "dns_a": [
+                "72.52.178.23"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "youtgube.com",
+            "dns_a": [
+                "72.52.178.23"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yoputube.com",
+            "dns_a": [
+                "78.41.204.39"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yoiutube.com",
+            "dns_a": [
+                "95.211.189.138"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "ykoutube.com",
+            "dns_a": [
+                "95.211.219.67"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "yo8utube.com",
+            "dns_a": [
+                "95.211.219.67"
+            ]
+        },
+        {
+            "fuzzer": "insertion",
+            "domain": "you6tube.com",
+            "dns_a": [
+                "95.211.219.67"
+            ]
+        },
+        {
+            "fuzzer": "omission",
+            "domain": "outube.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "omission",
+            "domain": "yotube.com",
+            "dns_a": [
+                "93.115.28.104"
+            ]
+        },
+        {
+            "fuzzer": "plural",
+            "domain": "youtsube.com",
+            "dns_a": [
+                "103.224.182.241"
+            ]
+        },
+        {
+            "fuzzer": "plural",
+            "domain": "youtusbe.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "repetition",
+            "domain": "yyoutube.com",
+            "dns_a": [
+                "104.143.9.110"
+            ]
+        },
+        {
+            "fuzzer": "repetition",
+            "domain": "youutube.com",
+            "dns_a": [
+                "3.33.152.147"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "yout7be.com",
+            "dns_a": [
+                "103.224.182.207"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "youtuve.com",
+            "dns_a": [
+                "103.224.182.226"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "youtjbe.com",
+            "dns_a": [
+                "103.224.182.238"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "ylutube.com",
+            "dns_a": [
+                "103.224.182.239"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "yohtube.com",
+            "dns_a": [
+                "103.224.182.239"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "yojtube.com",
+            "dns_a": [
+                "103.224.182.239"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "7outube.com",
+            "dns_a": [
+                "109.234.111.119"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "yo8tube.com",
+            "dns_a": [
+                "154.204.72.137"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "yourube.com",
+            "dns_a": [
+                "172.98.192.37"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "yiutube.com",
+            "dns_a": [
+                "184.106.55.59"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "yoitube.com",
+            "dns_a": [
+                "184.106.55.59"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "youtibe.com",
+            "dns_a": [
+                "185.107.56.203"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "goutube.com",
+            "dns_a": [
+                "185.53.177.51"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "youtuge.com",
+            "dns_a": [
+                "185.53.178.54"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "youtybe.com",
+            "dns_a": [
+                "185.53.178.54"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "6outube.com",
+            "dns_a": [
+                "185.53.179.173"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "yout8be.com",
+            "dns_a": [
+                "188.114.97.11"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "y9utube.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "youtubz.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "youtuhe.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "yoztube.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "toutube.com",
+            "dns_a": [
+                "216.250.120.249"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "you6ube.com",
+            "dns_a": [
+                "44.230.85.241"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "youzube.com",
+            "dns_a": [
+                "54.235.212.68"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "aoutube.com",
+            "dns_a": [
+                "64.190.63.222"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "youfube.com",
+            "dns_a": [
+                "64.190.63.222"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "youtub4.com",
+            "dns_a": [
+                "64.190.63.222"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "youtzbe.com",
+            "dns_a": [
+                "64.91.248.15"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "soutube.com",
+            "dns_a": [
+                "64.91.248.18"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "houtube.com",
+            "dns_a": [
+                "69.16.230.226"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "you5ube.com",
+            "dns_a": [
+                "69.16.231.82"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "uoutube.com",
+            "dns_a": [
+                "78.41.204.30"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "youthbe.com",
+            "dns_a": [
+                "78.41.204.31"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "youtubw.com",
+            "dns_a": [
+                "78.41.204.38"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "yo7tube.com",
+            "dns_a": [
+                "93.115.28.104"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "youtubs.com",
+            "dns_a": [
+                "93.115.28.104"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "yoytube.com",
+            "dns_a": [
+                "93.115.28.104"
+            ]
+        },
+        {
+            "fuzzer": "replacement",
+            "domain": "yougube.com",
+            "dns_a": [
+                "95.211.189.152"
+            ]
+        },
+        {
+            "fuzzer": "subdomain",
+            "domain": "y.outube.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "transposition",
+            "domain": "yuotube.com",
+            "dns_a": [
+                "103.224.182.246"
+            ]
+        },
+        {
+            "fuzzer": "transposition",
+            "domain": "yotuube.com",
+            "dns_a": [
+                "72.52.178.23"
+            ]
+        },
+        {
+            "fuzzer": "transposition",
+            "domain": "youtueb.com",
+            "dns_a": [
+                "75.126.101.246"
+            ]
+        },
+        {
+            "fuzzer": "transposition",
+            "domain": "youutbe.com",
+            "dns_a": [
+                "95.211.75.26"
+            ]
+        },
+        {
+            "fuzzer": "various",
+            "domain": "youtubecom.com",
+            "dns_a": [
+                "72.52.178.23"
+            ]
+        },
+        {
+            "fuzzer": "vowel-swap",
+            "domain": "yootube.com",
+            "dns_a": [
+                "103.224.182.236"
+            ]
+        },
+        {
+            "fuzzer": "vowel-swap",
+            "domain": "yoatube.com",
+            "dns_a": [
+                "13.248.169.48"
+            ]
+        },
+        {
+            "fuzzer": "vowel-swap",
+            "domain": "youtabe.com",
+            "dns_a": [
+                "15.197.192.55"
+            ]
+        },
+        {
+            "fuzzer": "vowel-swap",
+            "domain": "yuutube.com",
+            "dns_a": [
+                "185.53.178.50"
+            ]
+        },
+        {
+            "fuzzer": "vowel-swap",
+            "domain": "yautube.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "vowel-swap",
+            "domain": "youtubi.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "vowel-swap",
+            "domain": "youtubo.com",
+            "dns_a": [
+                "199.59.243.225"
+            ]
+        },
+        {
+            "fuzzer": "vowel-swap",
+            "domain": "youtobe.com",
+            "dns_a": [
+                "54.83.22.217"
+            ]
+        },
+        {
+            "fuzzer": "vowel-swap",
+            "domain": "yeutube.com",
+            "dns_a": [
+                "95.211.75.10"
+            ]
+        }
+    ]
+}

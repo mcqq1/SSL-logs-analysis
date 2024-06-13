@@ -1,5 +1,5 @@
 import json
-from datetime import datetime
+
 
 def is_phishing(domain_info: json, suspicious_domains: list):
     reason = ""

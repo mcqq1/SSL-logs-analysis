@@ -7,7 +7,9 @@ from dotenv import load_dotenv
 
 
 URLS_TO_CHECK = [
-    'http://myetherevvalliet.com/'
+    # 'http://myetherevvalliet.com/'
+    # "imperva.com"
+    "filegear-sg.me"
 ]
 
 

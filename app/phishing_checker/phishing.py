@@ -11,10 +11,6 @@ def is_phishing(domain_info: json, suspicious_domains: list):
     
     # get data
     all_domains = leaf_cert.get('all_domains', [])
-    subject_alt_name = leaf_cert.get('extensions', {}).get('subjectAltName', '')
-    issuer = leaf_cert.get('issuer', {})
-    not_before = leaf_cert.get('not_before', 0)
-    not_after = leaf_cert.get('not_after', 0)
     
     # Suspicious indicators
     suspicious_domains.extend([])

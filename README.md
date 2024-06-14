@@ -23,4 +23,4 @@ Files that are meant to be runned are:
 2. ```run_server.py```
   This script activates the server (the one who sends urls fetched via certstream to client.). When runned with client activated, it should print current url it is sending.
 3. ```scan.py```
-  This is a helper script. It's just a simple Virus Total API integration, to further verificate potential phishing websites.
+  This is a helper script. It's just a simple Virus Total API integration, to further verificate potential phishing websites. If you wish to use it, you need to generate your own Virus Total API key via their official website https://docs.virustotal.com/reference/overview. We recommend parsing the API key via .env file and python-dotenv module. 

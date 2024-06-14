@@ -18,9 +18,9 @@ pip install -r requirements.txt
 
 ## Usage
 Files that are meant to be runned are:
-- run_client.py
+1. ```run_client.py```
   This script activates the client (the one who takes url and checks it with 'is_phishing' function). When runned it should display ```Consumer is ready to receive data...```
-- run_server.py
+2. ```run_server.py```
   This script activates the server (the one who sends urls fetched via certstream to client.). When runned with client activated, it should print current url it is sending.
-- scan.py
+3. ```scan.py```
   This is a helper script. It's just a simple Virus Total API integration, to further verificate potential phishing websites.

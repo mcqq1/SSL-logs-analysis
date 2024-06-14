@@ -16,8 +16,13 @@ def is_phishing(domain_info: json, suspicious_domains: list):
     suspicious_domains.extend([])
     
     # Check if any suspicious domain is present
+    # for domain in all_domains:
+    #     if any(suspicious_domain in domain for suspicious_domain in suspicious_domains):
+    #         return True, "Domain name found in sucpicious domains."
+
     for domain in all_domains:
-        if any(suspicious_domain in domain.lower() for suspicious_domain in suspicious_domains):
-            return True, "Domain name found in sucpicious domains."
+        for suspicious_domain in suspicious_domains:
+            if suspicious_domain in domain:
+                return True, f"Domain name '{domain}' found in suspicious domains due to match with '{suspicious_domain}'."
 
     return False, reason

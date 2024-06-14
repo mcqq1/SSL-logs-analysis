@@ -2,6 +2,11 @@ import certstream
 import zmq
 import json
 
+context = zmq.Context()
+socket = context.socket(zmq.PUSH)
+socket.bind("tcp://127.0.0.1:5555")
+
+
 def certstream_callback(message, context):
     
     data = message['data']
@@ -16,10 +21,6 @@ def certstream_callback(message, context):
             print(f"Sent domain: {domain}")
 
 
-if __name__ == "__main__":
-    context = zmq.Context()
-    socket = context.socket(zmq.PUSH)
-    socket.bind("tcp://127.0.0.1:5555")
-
+def main():
     print("Starting CertStream listener...")
     certstream.listen_for_events(certstream_callback, url='wss://certstream.calidog.io/')

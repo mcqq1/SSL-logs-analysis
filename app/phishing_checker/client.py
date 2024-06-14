@@ -1,7 +1,8 @@
 import zmq
 import json
+import os
 
-from phishing import is_phishing
+from .phishing import is_phishing
 
 def main():
     # Set up ZeroMQ context and socket
@@ -13,7 +14,7 @@ def main():
 
     my_data = []
     data = {}
-    with open('potential_phishing.json', 'r') as f:
+    with open(os.path.join(os.path.dirname(__file__), 'potential_phishing.json'), 'r') as f:
         data = json.load(f)
     
     for domain, variations in data.items():
@@ -31,7 +32,3 @@ def main():
         if is_phishing_bool:
             domain_info['phishing_reason'] = phishing_reason
             print(json.dumps(domain_info, indent=4, default=str))
-
-
-if __name__ == '__main__':
-    main()
